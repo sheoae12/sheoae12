@@ -13,7 +13,7 @@
     <p><strong>Backend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> 
-        <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge?logo=typescript&logoColor=white">
         <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
     </div>
     <!-- Database -->
