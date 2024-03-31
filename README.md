@@ -13,8 +13,8 @@
     <p><strong>Backend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> 
-        <img src="https://img.shields.io/badge/TypeScript-#3178C6?style=for-the-badge&logo=typescript&logoColor=white"> 
-        <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+        <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
@@ -25,13 +25,13 @@
     <!-- Server -->
     <p><strong>Cloud</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/NGINX-#009639?style=for-the-badge&logo=nginx&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Amazon EC2-#FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Amazon ALB-#8C4FFF?style=for-the-badge"> 
-        <img src="https://img.shields.io/badge/Amazon S3-#569A31?style=for-the-badge&logo=amazon s3&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Amazon Lambda-#FF9900?style=for-the-badge&logo=aws lambda&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Amazon RDS-#527FFF-#FF9900?style=for-the-badge&logo=amazon rds&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Amazon CloudFront-#663399?style=for-the-badge"> 
+        <img src="https://img.shields.io/badge/NGINX-%23009639?style=for-the-badge&logo=nginx&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Amazon EC2-%23FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Amazon ALB-%238C4FFF?style=for-the-badge"> 
+        <img src="https://img.shields.io/badge/Amazon S3-%23569A31?style=for-the-badge&logo=amazon s3&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Amazon Lambda-%23FF9900?style=for-the-badge&logo=aws lambda&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Amazon RDS-%23527FFF-#FF9900?style=for-the-badge&logo=amazon rds&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Amazon CloudFront-%23663399?style=for-the-badge"> 
     </div>
 </div>
 
