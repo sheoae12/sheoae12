@@ -41,7 +41,9 @@
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5882146e-7999-49a1-a71e-e3c1b2fc520d" data-share-badge-host="https://www.credly.com"
   style="display: flex; width: 100%; justify-content: center;"
 >
-  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png" />
+  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png"
+    onClick="window.open('https://www.credly.com/badges/5882146e-7999-49a1-a71e-e3c1b2fc520d/public_url')"
+    />
 </div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
